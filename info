@@ -1,0 +1,43 @@
+[
+  {
+    "firstName": "Иван",
+    "lasttName": "Иванов",
+    "email": "ivanov@mail.ru",
+    "phoneNumber": [
+      "110-11-11",
+      "110-11-12"
+    ],
+    "address": {
+      "city": "Омск",
+      "streetAddress": "ул. Степная 5",
+      "apartment": "6"
+    }
+  },
+  {
+    "firstName": "Степан",
+    "lasttName": "Степанов",
+    "email": "stepanov@mail.ru",
+    "phoneNumber": [
+      "220-22-22",
+      "220-22-23"
+    ],
+    "address": {
+      "city": "Москва",
+      "streetAddress": "ул. Маросейка 11",
+      "apartment": "124"
+    }
+  },
+  {
+    "firstName": "Мария",
+    "lasttName": "Петрова",
+    "email": "petrova@mail.ru",
+    "phoneNumber": [
+      "330-33-33"
+    ],
+    "address": {
+      "city": "Пушкин",
+      "streetAddress": "ул. Саперная 39",
+      "apartment": "25"
+    }
+  }
+]
